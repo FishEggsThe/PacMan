@@ -34,6 +34,7 @@
   },
   "name":"Pacman",
   "resources":[
+    {"id":{"name":"Obj_Camera","path":"objects/Obj_Camera/Obj_Camera.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Arcade___Pac_Man___Maze_Parts__1_","path":"sprites/Arcade___Pac_Man___Maze_Parts__1_/Arcade___Pac_Man___Maze_Parts__1_.yy",},},
     {"id":{"name":"Spr_MazeTiles","path":"sprites/Spr_MazeTiles/Spr_MazeTiles.yy",},},
