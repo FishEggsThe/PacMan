@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Spr_MazeTiles",
+  "%Name":"Spr_MazeTiles_1",
   "bboxMode":0,
   "bbox_bottom":79,
   "bbox_left":9,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"a9c160f8-26e9-4bcb-ab20-25ae1c003c6a","blendMode":0,"displayName":"default","isLocked":false,"name":"a9c160f8-26e9-4bcb-ab20-25ae1c003c6a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Spr_MazeTiles",
+  "name":"Spr_MazeTiles_1",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -69,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"471e3f36-04f5-4233-a9d1-8b1ce7039f8d","path":"sprites/Spr_MazeTiles/Spr_MazeTiles.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"471e3f36-04f5-4233-a9d1-8b1ce7039f8d","path":"sprites/Spr_MazeTiles_1/Spr_MazeTiles_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d3f66966-3821-4f27-8e4d-f983c20c72ed","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
