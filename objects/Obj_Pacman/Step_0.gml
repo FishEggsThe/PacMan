@@ -5,6 +5,7 @@ var currTileMap = layer_tilemap_get_id("Tiles_Maze")
 var xSpeed = horizontalDirection*moveSpeed
 var ySpeed = verticalDirection*moveSpeed
 
+// X Collision
 if place_meeting(x + xSpeed, y, currTileMap)
 {
 	var _pixelCheck = sign(xSpeed);

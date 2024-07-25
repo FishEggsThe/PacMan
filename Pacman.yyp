@@ -37,6 +37,7 @@
   "resources":[
     {"id":{"name":"Obj_Camera","path":"objects/Obj_Camera/Obj_Camera.yy",},},
     {"id":{"name":"Obj_Pacman","path":"objects/Obj_Pacman/Obj_Pacman.yy",},},
+    {"id":{"name":"Room1_1","path":"rooms/Room1_1/Room1_1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Arcade___Pac_Man___General_Sprites","path":"sprites/Arcade___Pac_Man___General_Sprites/Arcade___Pac_Man___General_Sprites.yy",},},
     {"id":{"name":"Arcade___Pac_Man___Maze_Parts__1_","path":"sprites/Arcade___Pac_Man___Maze_Parts__1_/Arcade___Pac_Man___Maze_Parts__1_.yy",},},
@@ -48,6 +49,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Room1_1","path":"rooms/Room1_1/Room1_1.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType":"game",
