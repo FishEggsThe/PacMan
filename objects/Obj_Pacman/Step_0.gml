@@ -30,3 +30,6 @@ if place_meeting(x + xSpeed, y + ySpeed, currTileMap)
 
 x += xSpeed
 y += ySpeed
+
+if xSpeed != 0 {facing = 1 - sign(xSpeed)}
+else {facing = 2 + sign(ySpeed)}
